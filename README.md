@@ -1,1 +1,1 @@
-# AppliedStat
+# AppliedStatistics
